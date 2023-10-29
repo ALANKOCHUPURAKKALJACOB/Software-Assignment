@@ -1,0 +1,16 @@
+C:\SoftwareEngineering\SoftwareEngineeringLogin\bin\Debug\net6.0-windows\SoftwareEngineeringLogin.exe
+C:\SoftwareEngineering\SoftwareEngineeringLogin\bin\Debug\net6.0-windows\SoftwareEngineeringLogin.deps.json
+C:\SoftwareEngineering\SoftwareEngineeringLogin\bin\Debug\net6.0-windows\SoftwareEngineeringLogin.runtimeconfig.json
+C:\SoftwareEngineering\SoftwareEngineeringLogin\bin\Debug\net6.0-windows\SoftwareEngineeringLogin.dll
+C:\SoftwareEngineering\SoftwareEngineeringLogin\bin\Debug\net6.0-windows\SoftwareEngineeringLogin.pdb
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.Form1.resources
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.csproj.GenerateResource.cache
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.AssemblyInfoInputs.cache
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.AssemblyInfo.cs
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.csproj.CoreCompileInputs.cache
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.dll
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\refint\SoftwareEngineeringLogin.dll
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.pdb
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\SoftwareEngineeringLogin.genruntimeconfig.cache
+C:\SoftwareEngineering\SoftwareEngineeringLogin\obj\Debug\net6.0-windows\ref\SoftwareEngineeringLogin.dll
